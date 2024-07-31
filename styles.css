@@ -5,13 +5,13 @@
 .fundo{
     background-image: url(https://i.kym-cdn.com/entries/icons/original/000/046/010/eu_sabo_muito_meme.jpg);
     height: 100vh;
-    color: black;
+    color: rgb(255, 254, 254);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;    
 }
 .Calculadora{
     position: absolute;
-    background-color: rgba(222,219,219,0.7);
+    background-color: rgb(35, 35, 35);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
